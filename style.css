@@ -17,19 +17,4 @@ body
   text-align: center;
   margin:auto;
   boder:3px solid black;
-  h1
-  {
-    font-size:90px;
-    font-style:bold;
-    margin-bottom:-20px;
-  }
-  h4
-  {
-    margin-bottom:-75px;
-  }
 }
-.objective
-{
-  margin:20,100,20,20;
-}
-
