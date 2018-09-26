@@ -1,9 +1,14 @@
 body
-{background-color:#bcd4e6;
-margin-right:200px;}
+{
+  background-color:#bcd4e6;
+  margin:0px;
+  padding:0px;
+}
 .professional
 {
-  margin:100px;
+  width: 300px;
+  margin:auto;
+  boder: 1px black;
 }
 
 
