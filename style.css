@@ -4,6 +4,10 @@ body
   margin:0px;
   padding:0px;
 }
+.container
+{
+  margin:50px 300px;
+}
 .contact
 {
   text-align: center;
@@ -14,6 +18,6 @@ body
 }
 .objective
 {
-  margin:20px 500px;
+  margin:200px 500px;
 }
 
